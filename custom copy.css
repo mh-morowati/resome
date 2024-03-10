@@ -1,0 +1,234 @@
+@font-face {
+    font-family: ubuntu;
+    src: url("src/fonts/Ubuntu-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #fff;
+    font-family: ubuntu;
+    vertical-align: top;
+}
+
+#pic {
+    width: 1473px;
+}
+
+.qwe {
+    text-align: center;
+    font-family: ubuntu;
+    font-size: 60px;
+    margin: 60px;
+}
+
+.div-pr {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top: 70px;
+    left: 250px;
+    margin-bottom: 50px;
+}
+
+.div-prc {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top: 70px;
+    left: 350px;
+    margin-bottom: 50px;
+}
+
+#img1 {
+    margin-bottom: 50px;
+}
+
+#img2 {
+    margin-bottom: 50px;
+}
+
+.vida {
+    margin-top: 180px;
+    text-align: center;
+}
+
+.div-ch {
+    text-align: center;
+}
+
+#mac3 {
+    display: inline-block;
+    position: relative;
+    right: 100px;
+}
+
+#mac2 {
+    display: inline-block;
+    position: relative;
+    right: 25px;
+}
+
+#mac1 {
+    display: inline-block;
+    position: relative;
+    left: 50px;
+}
+
+#dayre {
+    width: 12px;
+    height: 12px;
+    background-color: rgba(112, 108, 108, 0.803);
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    right: 170px;
+    bottom: 30px;
+}
+
+#dayre2 {
+    width: 12px;
+    height: 12px;
+    background-color: rgba(112, 108, 108, 0.432);
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    right: 165px;
+    bottom: 30px;
+}
+
+.aks-nb {
+    margin-bottom: 75px;
+}
+
+.line {
+    margin: 20px 0px 50px 0px;
+}
+
+.pip {
+    margin-bottom: 50px;
+}
+
+.mnb-div {
+    background-color: #F2F2F2;
+    width: 650px;
+    height: 650px;
+    margin: 50px 0px 0px 50px;
+    display: inline-block;
+    position: relative;
+    bottom: 70px;
+}
+
+#acces {
+    position: relative;
+    top: 235px;
+}
+
+#zxcs {
+    position: relative;
+    left: 250px;
+    top: 100px;
+}
+
+#zxcs h1 {
+    position: relative;
+    font-size: 40px;
+    right: 50px;
+}
+
+.acces-div {
+    background-color: #F2F2F2;
+    width: 650px;
+    height: 650px;
+    margin: 50px 20px 0px 30px;
+    display: inline-block;
+}
+
+.acces-div img {
+    position: relative;
+    top: 210px;
+    left: 120px;
+}
+
+#acces-d {
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+#acces-d h1 {
+    font-size: 40px;
+}
+
+#div-tgf {
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+}
+
+#div-tgf2 {
+    display: inline-block;
+    text-align: center;
+    margin-left: 30px;
+}
+
+#div-tgf h1 {
+    position: relative;
+    top: 320px;
+    font-size: 50px;
+    color: white;
+}
+
+#div-tgf p {
+    position: relative;
+    top: 340px;
+    color: white;
+    font-family: ubuntu;
+}
+
+#div-tgf2 h1 {
+    position: relative;
+    top: 330px;
+    font-size: 50px;
+    color: white;
+}
+
+#div-tgf2 p {
+    position: relative;
+    top: 350px;
+    color: white;
+}
+
+#brt {
+    margin-top: -110px;
+}
+
+#footer {
+    text-align: center;
+    padding: 50px;
+}
+
+#short {
+    padding: 20px;
+    word-spacing: 50px;
+    background-color: rgba(141, 138, 138, 0.582);
+    position: fixed;
+    width: 1473px;
+    height: 40px;
+    z-index: 999999999999;
+}
+
+#short img {
+    position: relative;
+    top: 10px;
+}
+
+#short a {
+    color: rgba(0, 0, 0, 0.674);
+    text-decoration: none;
+    position: relative;
+    bottom: 15px;
+}
